@@ -52,7 +52,7 @@ var finalAnswer2 = function(){
       
     } else if (answer2 === 'sasuke') {
       
-      photo2 = '<img src="https://animesouls.com/wp-content/uploads/2017/03/14.jpg"/>'
+      photo2 = '<img src="https://animesouls.com/wp-content/uploads/2017/03/14.jpg"/ , width = 300px> '
     
     }
 

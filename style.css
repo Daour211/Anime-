@@ -1,0 +1,82 @@
+body{
+    margin: 0%;
+
+}
+header{
+    height: 100px;
+    background-color: rgb(10, 153, 81);
+}
+header h1{
+    font-style: oblique;
+    font-size: 35px;
+}
+header nav{
+    float: right;
+    width: 20%;
+    height: 40px;
+    
+}
+header nav ul{
+    margin-bottom: 10%;
+}
+
+header nav ul li{
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 20px;
+}
+header nav ul li a{
+    font-weight: 500;
+    color: firebrick;
+    height: 35px;
+    text-decoration: none;
+}
+
+
+main h3{
+    text-align: center;
+    color: rgb(34, 178, 178);
+}
+
+#firstdiv{
+    background-color: rgb(196, 11, 42);
+}
+#firstdiv p{
+    text-align: center;
+    color: rgb(34, 178, 178) ;
+}
+#firstdiv img{
+    margin-left: 38%;
+}
+
+#seconddiv{
+    background-color: rgb(196, 11, 42);
+    
+}
+#seconddiv p{
+    text-align: center;
+    color: rgb(34, 178, 178) ;
+}
+#seconddiv img{
+    margin-left: 36%;
+}
+#thirddiv{
+    background-color: rgb(196, 11, 42);
+    
+}
+#thirddiv p{
+    text-align: center;
+    color: rgb(34, 178, 178) ;
+}
+#thirddiv img{
+   margin-left: 40%;
+}
+
+footer{ 
+    background-color: #463209;
+    height: 50px;
+}
+footer p{
+    text-align: center;
+    color: gold;
+}
